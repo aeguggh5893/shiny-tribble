@@ -1,1 +1,1 @@
-(()=>{"use strict";alert("TWICE!")})();
+(()=>{"use strict";const t=document.createElement("img");t.setAttribute("src","https://pop.proddigital.com.br/wp-content/uploads/sites/8/2022/10/f.jpg"),t.setAttribute("alt","naruto-banner");const e=document.createElement("h1");e.textContent="Naruto Next Generations!";const n=document.createElement("p");n.textContent="Relive the greatest moments again from one of the most beloved and popular series from the 2000's!!!";let o=document.querySelector("#content");o.appendChild(t),o.appendChild(e),o.appendChild(n)})();
